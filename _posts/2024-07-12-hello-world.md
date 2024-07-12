@@ -5,7 +5,7 @@ categories: [misc,nonsense]
 tags: [lorem,ipsum]
 ---
 
-# Hello, world!
+# Welcome
 
 The quick brown fox jumped over the lazy dog.
 
