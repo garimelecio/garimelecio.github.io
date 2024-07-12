@@ -5,7 +5,7 @@ categories: [howtos]
 tags: [fetchmail,gmail]
 ---
 
-_This is an old post from 14 years ago today. I was looking for away to download all my emails from a GMail account and I remember writing this and putting it in my old blog [https://gari.melecio.org/post/43571126056/pull-all-your-emails-from-gmail-using-fetchma]. I wonder if it still works._
+_This is an old post from 14 years ago today. I was looking for away to download all my emails from a GMail account and I remember writing this and putting it in my old blog [https://gari.melecio.org/post/43571126056/pull-all-your-emails-from-gmail-using-fetchma]._
 
 # Pull all your emails from Gmail using fetchmail
 
