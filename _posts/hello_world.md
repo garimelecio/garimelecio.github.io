@@ -1,8 +1,8 @@
 ---
-title: Hello, world
+title: Hello world
 date: 2024-07-12 20:33:00 +800
-categories: [misc,nonsense]]
-tags: [hello,world]
+categories: [misc,nonsense]
+tags: [lorem,ipsum]
 ---
 
 # Hello, world!
