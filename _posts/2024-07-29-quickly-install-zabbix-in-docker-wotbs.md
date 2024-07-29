@@ -9,8 +9,7 @@ tags: [zabbix,portainer,docker,nms,wotbs]
 
 ### zabbix.env
 
->[!CAUTION]
-> Create a strong password and change `POSTGRES_PASSWORD` value below.
+> **Caution!** Create a strong password and change `POSTGRES_PASSWORD` value below.
 
 ```bash
 cat <<EOF > zabbix.env
