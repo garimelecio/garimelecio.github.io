@@ -1,5 +1,5 @@
 ---
-title: Quickly install Portainer without the BS
+title: Quickly install Portainer (without the BS)
 date: 2024-07-29 20:10:00 +0800
 categories: [howtos]
 tags: [portainer,docker,linux]
